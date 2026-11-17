@@ -229,3 +229,5 @@ zsh build.sh
 ```
 
 The script builds the app, signs it locally and runs the included self-tests.
+
+Was made with KI
